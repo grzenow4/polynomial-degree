@@ -1,5 +1,5 @@
 # SO-polynomial-degree
-polynomial-degree function implementation in C with signature: `int polynomial_degree(int const *y, size_t n);`.
+polynomial-degree function implementation in assembly with signature: `int polynomial_degree(int const *y, size_t n);`.
 
 Function arguments are:
 - y - pointer to an array of integers y<sub>0</sub>, y<sub>1</sub>, ... , y<sub>n-1</sub>
