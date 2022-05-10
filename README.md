@@ -8,3 +8,5 @@ Function arguments are:
 Function result is the lowest degree of a polynomial in one variable w(x) with real coefficients that w(x + kr) = y<sub>k</sub> for some real number x, real nonzero number r and k = 0, 1, ... , n-1.
 
 We assume that w(x) = 0 has degree -1.
+
+Some example tests are in file `polynomial_degree_example.c`.
